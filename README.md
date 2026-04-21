@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Diane  👋
+ 
+Product Designer | AI + Data + UX
 
-<!--
-**DKTODesigns/DKTODesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design intelligent, human-centered experiences powered by data and AI.
+## What I Do
+- UX/Product Design for AI-powered systems  
+- Data visualization & dashboards (Excel, Looker Studio, Cognos)  
+- Conversational AI & chatbot design  
+- Service design for complex systems
+- ## Featured Projects
 
-Here are some ideas to get you started:
+### 🔹 Customer Insights Dashboard
+Interactive Looker Studio dashboard to uncover sales trends and support decision-making  
+👉 [View Project](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Excel Sales Dashboard
+Analyzed business performance using PivotTables and visualizations  
+👉 [View Repo](link)
+
+### 🔹 SQLite Data Analysis
+End-to-end SQL + Python workflow for querying and transforming data  
+👉 [View Repo](link)
+## Skills
+**Data & Analytics:** Excel, SQL, Python, Pandas  
+**Visualization:** Power BI, Looker Studio, Cognos  
+**AI:** Azure AI, Prompt Design, Conversational UX  
+**Design:** Figma, UX Research, Design Systems  
+## Tools
+Excel | SQL | Python | Figma | Looker Studio | Azure AI
+## 🔗 Connect
+🌐 Portfolio: https://dktodesigns.com  
+💼 LinkedIn: (your link)  
+🐙 GitHub: You’re already here  
