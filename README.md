@@ -15,8 +15,8 @@ Interactive Looker Studio dashboard to uncover sales trends and support decision
 👉 [GitHub Repo](https://github.com/DKTODesigns/customer-insights-dashboard-lookerstudio)
 
 ### 🔹 Excel Sales Dashboard
-Analyzed business performance using PivotTables and visualizations  
-👉 [View Repo](link)
+Built an interactive dashboard using PivotTables and visualizations to analyze sales trends, track KPIs, and support data-driven decision-making.
+👉 🔗 [GitHub Repo](https://github.com/DKTODesigns/excel-sales-dashboard)
 
 ### 🔹 SQLite Data Analysis
 End-to-end SQL + Python workflow for querying and transforming data  
