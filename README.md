@@ -20,7 +20,6 @@ Built an interactive dashboard using PivotTables and visualizations to analyze s
 
 ### 🔹 Automobile Price EDA
 Conducted exploratory data analysis using Python (Pandas, Matplotlib) to uncover relationships between engine size, price, and vehicle features, using visualizations to identify trends and support data-driven insights.
-
 👉 [GitHub Repo](https://github.com/DKTODesigns/automobile-price-eda)
 
 ## Skills
