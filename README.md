@@ -35,6 +35,7 @@ Conducted exploratory data analysis using Python (Pandas, Matplotlib) to uncover
 Excel | SQL | Python | Figma | Looker Studio | Azure AI
 
 ## Connect
-🌐 Portfolio: https://dktodesigns.com  
-💼 LinkedIn: (your link)  
-🐙 GitHub: You’re already here  
+## 🔗 Connect
+- 🌐 [Portfolio](https://dktodesigns.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lindadianeking)  
+- 🐙 [GitHub](https://github.com/DKTODesigns) 
