@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DKTO Designs | Data Portfolio</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #121933;
+      --text: #f4f7fb;
+      --muted: #b8c2d6;
+      --accent: #6ea8fe;
+      --border: #24304f;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: linear-gradient(180deg, #0b1020 0%, #111830 100%);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+
+    .hero {
+      padding: 32px;
+      border: 1px solid var(--border);
+      background: rgba(18, 25, 51, 0.85);
+      border-radius: 18px;
+      margin-bottom: 28px;
+    }
+
+    h1, h2, h3 {
+      margin-top: 0;
+    }
+
+    h1 {
+      font-size: 2.4rem;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      color: var(--muted);
+      font-size: 1.05rem;
+      max-width: 700px;
+    }
+
+    .section {
+      margin-top: 32px;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 18px;
+      margin-top: 16px;
+    }
+
+    .card {
+      background: rgba(18, 25, 51, 0.9);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+    }
+
+    .card h3 {
+      margin-bottom: 10px;
+      font-size: 1.15rem;
+    }
+
+    .card p {
+      color: var(--muted);
+      margin-bottom: 16px;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .tag {
+      font-size: 0.82rem;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: #1b2645;
+      color: #d8e4ff;
+      border: 1px solid #30406b;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      margin-top: 20px;
+    }
+
+    .footer {
+      margin-top: 48px;
+      color: var(--muted);
+      font-size: 0.95rem;
+      text-align: center;
+    }
+
+    @media (max-width: 640px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      .hero {
+        padding: 24px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <section class="hero">
+      <h1>DKTO Designs</h1>
+      <p class="subtitle">
+        UX/Product Designer expanding into Data Analytics, with hands-on projects in exploratory data analysis,
+        data wrangling, dashboards, and insight-driven storytelling.
+      </p>
+
+      <div class="links">
+        <a href="https://github.com/DKTODesigns" target="_blank">GitHub Profile</a>
+        <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
+        <a href="https://dktodesigns.com" target="_blank">Portfolio Website</a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Featured Data Projects</h2>
+
+      <div class="cards">
+        <article class="card">
+          <h3>Exploratory Data Analysis – Laptop Pricing</h3>
+          <p>
+            Examined relationships between laptop features and price using regression plots,
+            pivot tables, heatmaps, and Pearson correlation.
+          </p>
+          <div class="tags">
+            <span class="tag">Python</span>
+            <span class="tag">Pandas</span>
+            <span class="tag">Seaborn</span>
+            <span class="tag">EDA</span>
+          </div>
+          <a href="https://github.com/DKTODesigns/exploratory-data-analysis-laptop-pricing" target="_blank">View Project</a>
+        </article>
+
+        <article class="card">
+          <h3>Laptop Pricing Data Wrangling</h3>
+          <p>
+            Cleaned and transformed a laptop pricing dataset by handling missing values,
+            correcting data types, normalizing features, and creating engineered variables.
+          </p>
+          <div class="tags">
+            <span class="tag">Python</span>
+            <span class="tag">Data Cleaning</span>
+            <span class="tag">Feature Engineering</span>
+          </div>
+          <a href="https://github.com/DKTODesigns/laptop-pricing-data-wrangling" target="_blank">View Project</a>
+        </article>
+
+        <article class="card">
+          <h3>Automobile Price EDA</h3>
+          <p>
+            Explored which automobile features most strongly influence price using visual analysis,
+            groupby operations, pivot tables, and statistical testing.
+          </p>
+          <div class="tags">
+            <span class="tag">EDA</span>
+            <span class="tag">Correlation</span>
+            <span class="tag">Visualization</span>
+          </div>
+          <a href="https://github.com/DKTODesigns/automobile-price-eda" target="_blank">View Project</a>
+        </article>
+
+        <article class="card">
+          <h3>Automobile Data Wrangling</h3>
+          <p>
+            Prepared raw automobile data for analysis by standardizing formats, fixing missing values,
+            and creating analysis-ready variables.
+          </p>
+          <div class="tags">
+            <span class="tag">Pandas</span>
+            <span class="tag">Wrangling</span>
+            <span class="tag">Preprocessing</span>
+          </div>
+          <a href="https://github.com/DKTODesigns/data-wrangling-automobile-dataset" target="_blank">View Project</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>About</h2>
+      <p class="subtitle">
+        My background in UX and product design shapes how I approach analytics: not just cleaning and exploring data,
+        but using it to uncover patterns, communicate insights clearly, and support better decisions.
+      </p>
+    </section>
+
+    <div class="footer">
+      © 2026 DKTO Designs
+    </div>
+  </div>
+</body>
+</html>
