@@ -32,7 +32,7 @@ Conducted exploratory data analysis using Python (Pandas, Matplotlib) to uncover
 **Design:** Figma, UX Research, Design Systems  
 
 ## Tools
-Excel | SQL | Python | Figma | Looker Studio | Azure AI
+Excel | SQL | Python | Figma | Power BI | Looker Studio | Azure AI
 
 ## Connect
 ## Connect
