@@ -12,7 +12,7 @@ I design intelligent, human-centered experiences powered by data and AI.
 
 ### 🔹 Customer Insights Dashboard
 Interactive Looker Studio dashboard to uncover sales trends and support decision-making  
-👉 [View Project]([[link](https://github.com/DKTODesigns/customer-insights-dashboard-lookerstudio)](https://github.com/DKTODesigns/customer-insights-dashboard-lookerstudio)
+👉 [GitHub Repo](https://github.com/DKTODesigns/customer-insights-dashboard-lookerstudio)
 
 ### 🔹 Excel Sales Dashboard
 Analyzed business performance using PivotTables and visualizations  
