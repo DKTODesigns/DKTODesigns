@@ -18,16 +18,19 @@ Interactive Looker Studio dashboard to uncover sales trends and support decision
 Built an interactive dashboard using PivotTables and visualizations to analyze sales trends, track KPIs, and support data-driven decision-making.
 👉 [GitHub Repo](https://github.com/DKTODesigns/excel-sales-dashboard)
 
-### 🔹 SQLite Data Analysis
-End-to-end SQL + Python workflow for querying and transforming data  
-👉 [View Repo](link)
+### 🔹 Automobile Price EDA
+Conducted exploratory data analysis using Python (Pandas, Matplotlib) to uncover relationships between engine size, price, and vehicle features, using visualizations to identify trends and support data-driven insights.
+👉 [GitHub Repo](https://github.com/DKTODesigns/automobile-price-eda)
+
 ## Skills
 **Data & Analytics:** Excel, SQL, Python, Pandas  
 **Visualization:** Power BI, Looker Studio, Cognos  
 **AI:** Azure AI, Prompt Design, Conversational UX  
 **Design:** Figma, UX Research, Design Systems  
+
 ## Tools
 Excel | SQL | Python | Figma | Looker Studio | Azure AI
+
 ## 🔗 Connect
 🌐 Portfolio: https://dktodesigns.com  
 💼 LinkedIn: (your link)  
